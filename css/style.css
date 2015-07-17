@@ -1,3 +1,4 @@
+
 body{
 	background-image: url(../img/bg.png);
 	font-family: 'Source Sans Pro', sans-serif,arial;
@@ -10,6 +11,15 @@ body{
 	margin-right: 0px !important;
 }
 /*head*/
+.fir-tit{
+    font-family: 'Comic Sans MS', cursive !important;
+}
+
+.sec-tit{
+    font-family: Georgia, serif;
+    font-size: 1.1em;
+    font-weight: bold;
+}
 
 .head{
 	padding-bottom: 50px;
@@ -51,8 +61,9 @@ body{
 
 .middle-content .content{
 	color: #fff;
-	font-size: 30px;
+	font-size: 2em;
 	line-height: 50px;
+    font-weight: bold;
 }
 
 .middle-content{
